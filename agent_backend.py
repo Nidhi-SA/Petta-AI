@@ -11,7 +11,7 @@ model = SentenceTransformer("all-MiniLM-L6-v2")
 
 # Directory where your files live
 DATA_DIR = [
-	r"C:\Users\nidhi\OneDrive\Desktop\Generation Australia",
+	r"C:\Users\nidhi\Petta-AI\data",
 ]
 
 #r"C:\Users\nidhi\OneDrive\Desktop\Python Codes",
