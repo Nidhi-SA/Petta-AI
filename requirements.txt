@@ -1,1 +1,9 @@
+pdfplumber
+pytesseract
+Pillow
 python-docx
+sentence-transformers
+faiss-cpu
+python-pptx
+xlrd
+openpyxl
