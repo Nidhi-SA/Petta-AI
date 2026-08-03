@@ -46,7 +46,7 @@ Uses SentenceTransformers + FAISS for fast vector search.
 Simple, clean Tkinter GUI for interactive querying.
 
 ##  How Petta Works (Architecture Overview)
-
+```text
 ┌──────────────────────────┐
 │        User Query        │
 └──────────────┬───────────┘
@@ -67,9 +67,10 @@ Context Window Builder
 ┌──────────────▼──────────────┐
 │         GUI Output          │
 └─────────────────────────────┘
-
+```
 
 ##  Project Structure
+```text
 Petta-AI/
 │
 ├── .gitignore
@@ -90,7 +91,7 @@ Petta-AI/
 ├── v2.0/
 │   ├── agent_backendv2.py
 │   ├── agent_guiv2.py
-
+```
 ##  Installation
 
 Clone the repository:
