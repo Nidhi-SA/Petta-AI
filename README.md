@@ -94,7 +94,9 @@ Petta-AI/
 ```
 ##  Installation
 Clone the repository:
+
 git clone https://github.com/Nidhi-SA/Petta-AI.git (github.com in Bing)
+
 cd Petta-AI
 
 ## Install dependencies:
@@ -125,14 +127,16 @@ Ask Petta questions like:
 - Contextual search  
 - FAISS semantic indexing  
 - Cleaner GUI  
-- More accurate answers  
+- More accurate answers 
+- Results with filename and location
+- Files can be opened through GUI
 
 ##  Future Improvements
 - Add CSV / JSON / HTML parsing  
 - Add chat memory  
 - Add colored highlighting in GUI  
 - Add “Top 3 facts” summarizer  
-- Add semantic ranking of results  
+- Add voice support to Petta  
 - Add web search integration  
 
 ##  License
