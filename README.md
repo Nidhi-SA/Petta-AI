@@ -24,7 +24,7 @@ Petta‑AI can read and search across:
 
 ###  Smart Question Understanding  
 Petta understands natural questions like:
-- “Who is <string>”  
+- “Who is XYZ"
 - “Where is Adelaide”  
 - “Tell me about Python”  
 - “Explain memory leak”  
@@ -93,9 +93,7 @@ Petta-AI/
 │   ├── agent_guiv2.py
 ```
 ##  Installation
-
 Clone the repository:
-
 git clone https://github.com/Nidhi-SA/Petta-AI.git (github.com in Bing)
 cd Petta-AI
 
@@ -108,7 +106,7 @@ python v2.0/agent_guiv2.py
 ## Place your documents inside the "data/" folder.
 
 Ask Petta questions like:
-- “Who is <string>”
+- “Who is XYZ”
 - “Where is Adelaide”
 - “Explain Python”
 - “Tell me about memory leak”
